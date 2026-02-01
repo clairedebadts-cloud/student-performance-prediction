@@ -1,0 +1,38 @@
+# Core Data Science
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.1
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+graphviz==0.20.3
+missingno==0.5.2
+
+# EDA (Install ydata-profiling from GitHub)
+# ydata-profiling @ git+https://github.com/ydataai/ydata-profiling.git
+
+# Jupyter Environment
+jupyter==1.1.1
+notebook==7.3.2
+ipykernel==6.29.5
+nbconvert==7.16.6
+nbformat==5.10.4
+
+# Data Utilities
+openpyxl==3.1.5
+Pillow==10.4.0
+pyproj==3.7.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+
+# System & File Handling
+python-dotenv==1.0.1
+pathlib==1.0.1
+requests==2.32.3
+
+# Additional EDA Tools
+statsmodels==0.14.4
+statsforecast==2.0.2
